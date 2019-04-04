@@ -1,7 +1,7 @@
 export default {
   fonts: {
-    base: 'Roboto',
-    display: 'Alfa Slab One'
+    base: 'Open Sans',
+    display: 'Titillium Web'
   },
   colors: {
     blue: '#3ba8ce',
